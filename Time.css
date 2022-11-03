@@ -1,0 +1,21 @@
+body {
+  background-color: grey;
+}
+
+.button {
+  text-align: center;
+}
+
+#pressed {
+  text-align: center;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+}
+
+#header {
+  text-align: center;
+}
